@@ -1,0 +1,10 @@
+// console.log(console)
+console.error("This is an error")
+console.assert(5 > 53)
+// console.clear()
+obj = { a: 1, b: 2, c: 3 }
+console.table(obj)
+console.warn("Hey please dont smoke")
+console.info("This is an important message")
+console.time("p1")
+console.timeEnd("p1")
