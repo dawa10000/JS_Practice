@@ -243,3 +243,4 @@ let newarr4 = arr4.reduce((h1, h2) => {
   return h1 + h2
 })
 console.log(newarr4)
+
